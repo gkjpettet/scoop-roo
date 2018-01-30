@@ -3,5 +3,5 @@
   "homepage": "https://github.com/roolang/roo",
   "license": "MIT",
   "url": "https://github.com/roolang/roo/files/1678114/roo-118-win64.zip",
-  "bin": "roo.exe",
+  "bin": "roo.exe"
 }
