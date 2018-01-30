@@ -1,0 +1,6 @@
+{
+  "version": "1.1.8",
+  "homepage": "https://github.com/roolang/roo",
+  "license": "MIT",
+  "bin": "roo.exe",
+}
