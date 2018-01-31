@@ -1,4 +1,4 @@
-# scoop-roo
+# scoop
 Installing the Roo programming language on Windows using Scoop
 
 ## Steps for each new Roo build
