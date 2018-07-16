@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "homepage": "https://roolang.org",
   "license": "MIT",
-  "url": "https://github.com/gkjpettet/roo/files/2197274/roo-210-win64.zip",
-  "hash": "cf3ca862cc82d43607efcd5a1fde1007c23c810b95579bc27a6c0252f25e16b1",
+  "url": "https://github.com/gkjpettet/roo/files/2197334/roo-211-win64.zip",
+  "hash": "ba2d65af31df809b6f3cae8852273aca15945a178d4de76dc62116bdccc22545",
   "bin": "roo.exe"
 }
